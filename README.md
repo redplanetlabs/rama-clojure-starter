@@ -2,4 +2,4 @@
 
 An empty Clojure project configured for developing with Rama.
 
-Note that Rama AOT compiles against Clojure 1.11.1 in its jar, so you must specify that version of Clojure in your dependencies.
+Note that Rama AOT compiles against Clojure. The [Rama release notes](github.com/redplanetlabs/rama-release-notes/) specify what version of Clojure must be used with each Rama version.
