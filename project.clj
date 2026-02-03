@@ -1,6 +1,6 @@
 (defproject com.rpl/rama-clojure-starter "1.0.0-SNAPSHOT"
   :dependencies [[com.rpl/rama-helpers "0.10.0"]
-                 [org.clojure/clojure "1.12.2"]]
+                 [org.clojure/clojure "1.12.4"]]
   :repositories [["releases" {:id "maven-releases"
                               :url "https://nexus.redplanetlabs.com/repository/maven-public-releases"}]]
 
